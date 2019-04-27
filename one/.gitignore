@@ -149,9 +149,3 @@ gradle/
 settings.gradle
 .gradle/
 .idea/*
-one/.gradle/
-one/build/
-one/gradle/
-one/out/
-one/gradlew
-one/gradlew.bat
